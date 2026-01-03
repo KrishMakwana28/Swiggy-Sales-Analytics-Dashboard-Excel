@@ -26,16 +26,22 @@ The dashboard allows users to **dynamically explore sales performance, customer 
 ### 🗺 Geographic & Market Insights
 
 📍 **State-wise Sales & Ratings**
+
 🏙 **Top 5 Cities by Sales**
+
 📊 **Quarter-wise KPI Performance**
+
 
 ---
 
 ### 🥗 Customer & Order Insights
 
 🍽 **Sales by Food Type — Veg vs Non-Veg**
+
 📆 **Daily Sales Trend**
+
 📅 **Monthly Sales Trend**
+
 📈 **Weekly Sales Trend**
 
 ---
@@ -43,8 +49,11 @@ The dashboard allows users to **dynamically explore sales performance, customer 
 ### 🎛 Interactivity
 
 ✔ **Slicers for Multi-Level Filtering (Month, Category, Restaurant)**
+
 ✔ **Dynamic KPI Cards**
+
 ✔ **Pivot-Driven Visuals & Drill-Down Analysis**
+
 
 ---
 
@@ -79,8 +88,11 @@ The dashboard allows users to **dynamically explore sales performance, customer 
 ## 🔮 Future Improvements
 
 🔁 Automate data refresh
+
 📊 Add deeper customer segmentation
+
 📱 Build a Power BI / Tableau version
+
 📉 Include profitability & cost metrics
 
 ---
