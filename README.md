@@ -12,9 +12,13 @@ The dashboard allows users to **dynamically explore sales performance, customer 
 ### 🟢 KPI Summary
 
 💰 **Total Sales**
+
 ⭐ **Average Rating**
+
 🛒 **Average Order Value**
+
 📦 **Total Orders**
+
 📝 **Total Rating Count**
 
 ---
