@@ -72,9 +72,13 @@ The dashboard allows users to **dynamically explore sales performance, customer 
 ## 📚 Learning Outcomes
 
 ✔ Transforming raw delivery data into decision-ready dashboards
+
 ✔ Designing KPIs for business performance tracking
+
 ✔ Applying analytics thinking to food-delivery data
+
 ✔ Building clean, interactive dashboards in Excel
+
 ✔ Communicating insights visually and clearly
 
 ---
