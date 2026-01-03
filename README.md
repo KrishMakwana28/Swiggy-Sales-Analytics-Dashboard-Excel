@@ -1,41 +1,46 @@
-# 🟠 Swiggy Sales Analytics Dashboard — Microsoft Excel
+# 🟠 Swiggy Sales Dashboard — Excel Data Analytics Project
 
-This project is an **interactive Sales Analytics Dashboard built in Microsoft Excel**, based on **Swiggy-style food-delivery data**.
-The goal of this dashboard is to **analyze sales performance, customer ratings, order behavior, and geographic trends** — all using Pivot Tables, Charts, and Slicers.
+This project is an **interactive Sales Analytics Dashboard built in Microsoft Excel using real-world-style Swiggy delivery data.**
+The goal of the project was to **transform raw order-level data into meaningful business insights** through data cleaning, KPI tracking, visualization, and dashboard design.
 
----
-
-## 📊 Key KPIs Tracked
-
-✔️ Total Sales
-✔️ Average Rating
-✔️ Average Order Value
-✔️ Total Orders
-✔️ Rating Count
+The dashboard allows users to **dynamically explore sales performance, customer ratings, geography-wise trends, and order behavior** using Pivot Tables, Pivot Charts, and Slicers.
 
 ---
 
-## 📈 Dashboard Insights
+## 🚀 Key Features
 
-The dashboard includes the following visual analyses:
+### 🟢 KPI Summary
 
-📅 **Monthly Sales Trend** – revenue performance over time
-📆 **Daily Sales Trend** – day-wise comparison
-🥗 **Sales by Food Type** – Veg vs Non-Veg contribution
-🗺 **State-wise Sales & Ratings** – geographic performance
-🏙 **Top 5 Cities by Sales** – major revenue drivers
-📊 **Weekly Sales Trend** – short-term performance pattern
-⭐ **Quarter-Wise KPI Summary** – structured KPI overview
+💰 **Total Sales**
+⭐ **Average Rating**
+🛒 **Average Order Value**
+📦 **Total Orders**
+📝 **Total Rating Count**
 
 ---
 
-## 🎛 Interactive Filters (Slicers)
+### 🗺 Geographic & Market Insights
 
-Users can filter the dashboard by:
+📍 **State-wise Sales & Ratings**
+🏙 **Top 5 Cities by Sales**
+📊 **Quarter-wise KPI Performance**
 
-🔹 Month
-🔹 Category
-🔹 Restaurant Name
+---
+
+### 🥗 Customer & Order Insights
+
+🍽 **Sales by Food Type — Veg vs Non-Veg**
+📆 **Daily Sales Trend**
+📅 **Monthly Sales Trend**
+📈 **Weekly Sales Trend**
+
+---
+
+### 🎛 Interactivity
+
+✔ **Slicers for Multi-Level Filtering (Month, Category, Restaurant)**
+✔ **Dynamic KPI Cards**
+✔ **Pivot-Driven Visuals & Drill-Down Analysis**
 
 ---
 
@@ -43,49 +48,43 @@ Users can filter the dashboard by:
 
 * Microsoft Excel
 * Data Cleaning & Structuring
-* Pivot Tables
-* Pivot Charts
-* Slicers & Interactive Filtering
-* Dashboard Formatting & UI
-* KPI Cards & Visual Storytelling
+* Pivot Tables & Pivot Charts
+* Interactive Slicers
+* KPI Cards & Dashboard Formatting
+* Business Insight Generation
+* Visual Storytelling & Dashboard UI Design
 
 ---
 
-## 🎯 Project Objectives
+## 📚 Learning Outcomes
 
-🔹 Convert raw data into analytics-ready format
-🔹 Design decision-focused KPIs
-🔹 Build a visually clean and interactive dashboard
-🔹 Apply data analytics thinking to a real-world scenario
-
----
-
-## 📥 Files in This Repository
-
-* `Swiggy_Sales_Dashboard.xlsx` → Main dashboard file
-* `Screenshots/` → Dashboard preview images
-* `README.md` → Project documentation
+✔ Transforming raw delivery data into decision-ready dashboards
+✔ Designing KPIs for business performance tracking
+✔ Applying analytics thinking to food-delivery data
+✔ Building clean, interactive dashboards in Excel
+✔ Communicating insights visually and clearly
 
 ---
 
-## 💡 Key Learnings
+## 📌 Project Screenshots
 
-✨ Dashboard design using Excel
-✨ KPI selection & storytelling
-✨ Business Intelligence concepts
-✨ Visual analytics & reporting
+(Add dashboard images here)
 
 ---
 
-## 🚀 About This Project
+## 🔮 Future Improvements
 
-This dashboard is part of my **Data Analytics learning journey**, where I design real-world dashboards to understand how businesses use data for decision-making.
+🔁 Automate data refresh
+📊 Add deeper customer segmentation
+📱 Build a Power BI / Tableau version
+📉 Include profitability & cost metrics
 
 ---
 
-## 🙌 Feedback
+## 🙌 About This Project
 
-Suggestions and feedback are always welcome!
-Feel free to ⭐ the repo if you find it useful 😊
+This dashboard is part of my **Data Analytics learning journey**, where I focus on building **real-world analytics projects** to strengthen my hands-on skills in Excel, data storytelling, and business intelligence.
+
+📩 **Feedback, suggestions, and collaborations are always welcome!** 😊
 
 ---
