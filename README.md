@@ -85,8 +85,8 @@ The dashboard allows users to **dynamically explore sales performance, customer 
 
 ## 📌 Project Screenshots
 
-(Add dashboard images here)
-
+[(Add dashboard images here)
+](https://www.linkedin.com/posts/krish-makwana-58ab64374_dataanalytics-exceldashboard-analyticsproject-activity-7413625276670156801-5yWy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4SDoB5RKus0IjrjxH2XoHrWA_8rtyLCY)
 ---
 
 ## 🔮 Future Improvements
