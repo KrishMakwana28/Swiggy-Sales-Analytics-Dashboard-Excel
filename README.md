@@ -1,4 +1,4 @@
-# 🟠 Swiggy Sales Dashboard — Excel Data Analytics Project
+# 🟠 Swiggy Sales Dashboard — Excel Data Analytics Project 
 
 This project is an **interactive Sales Analytics Dashboard built in Microsoft Excel using real-world-style Swiggy delivery data.**
 The goal of the project was to **transform raw order-level data into meaningful business insights** through data cleaning, KPI tracking, visualization, and dashboard design.
